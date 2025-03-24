@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Karanwal</h1>
-<h3 align="center">A passionate Frontend Developer & UI/UX Enthusiast from India</h3>
+<h3 align="center">Passionate Frontend Developer, UI/UX Enthusiast, and Aspiring Backend Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=karanwal123&label=Profile%20views&color=0e75b6&style=flat" alt="karanwal123" />
